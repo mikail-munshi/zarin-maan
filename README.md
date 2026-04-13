@@ -18,16 +18,10 @@ farewell-zarin/
 
 ---
 
-## 🚀 Deploy on Netlify (Free — Recommended)
+## 🚀 Deployed on Netlify (Free)
 
-### Option A: Drag & Drop (Easiest)
+1. Go to :  (https://zarinimon.netlify.com)
 
-1. Go to **[netlify.com](https://netlify.com)** → Sign up / Log in (free)
-2. On your dashboard, scroll down to the **"Deploy manually"** section
-3. **Drag & drop** the entire `farewell-zarin/` folder onto the page
-4. Netlify gives you a live URL in seconds! 🎉
-5. Click **"Site settings"** → **"Change site name"** → e.g. `farewell-zarin-maam`
-6. Your site will be at: `https://farewell-zarin-maam.netlify.app`
 
 ### Option B: GitHub + Netlify (More professional)
 
@@ -65,4 +59,4 @@ farewell-zarin/
 
 ---
 
-Made with 💙 by Mikail Munshi · CSE 3rd Semester · Premier University, Chittagong
+Made by Mikail Munshi · DCSE · Premier University, Chittagong
