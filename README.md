@@ -20,7 +20,7 @@ farewell-zarin/
 
 ## 🚀 Deployed on Netlify (Free)
 
-1. Go to :  (https://zarinimon.netlify.com)
+1. Go to :  (https://zarinimon.netlify.app/))
 
 
 ### Option B: GitHub + Netlify (More professional)
